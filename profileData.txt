@@ -1,0 +1,20 @@
+Run at Thu, 13 Apr 2023 10:36:04 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 46ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 6s 970ms
+
+Run at Thu, 13 Apr 2023 10:37:19 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 32ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 23s 846ms
+
+Run at Thu, 13 Apr 2023 10:38:20 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 47ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 20s 341ms
+
+Run at Thu, 13 Apr 2023 10:39:58 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 52ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 4s 898ms
+
+Run at Thu, 13 Apr 2023 10:40:28 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 38ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 3s 872ms
+
